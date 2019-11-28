@@ -1,2 +1,2 @@
 # Fun-Projects
-// This code can control BK Precision power supply model 1887B, 1885B and 1888B using Labview
+// This code can control BK Precision power supply model 1687B, 1685B and 1688B using Labview
